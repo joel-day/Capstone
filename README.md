@@ -1,4 +1,4 @@
-# April 2024
+# April 2024 - Joel Raymond Day
 # Project Introduction
 ## Traditional polling processes that are typically done over the phone or in-person are being replaced by methods that utilize information placed voluntarily and sporadically on the internet. Both methods require a supplementary bundle of features for optimal performance – this project provides a model that can provide the necessary supplementary information. Results have demonstrated that a high performing ensemble of non-linear models trained on objective state-level metrics can predict U.S. federal senate elections with an F1 performance of above 90%. 
 # Navigatating the GitHub
