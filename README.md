@@ -1,4 +1,5 @@
-# April 2024 - Joel Raymond Day
+# Joel Raymond Day
+# OLD VERSION of Election forecasting with Artifical Intelligence - follow the link below. 
 
 # Updated version
 https://github.com/joel-day/Election-Forecasting-with-Artificial-Intelligence
